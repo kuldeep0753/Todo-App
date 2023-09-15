@@ -1,6 +1,5 @@
 # Todo-App
 
-````markdown
 # ✅ To-Do Application
 
 Welcome to the ✅ To-Do Application! This simple web app allows you to create and manage your to-do list with ease. 📝
@@ -20,7 +19,7 @@ To use the To-Do Application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-application.git
+   git clone https://github.com/kuldeep0753/Todo-App/
    ```
 ````
 
